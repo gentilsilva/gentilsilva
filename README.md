@@ -1,7 +1,7 @@
-## Olá, Bem Vindo!
+## Olá, eu sou o Gentil Silva!
 #### Bem vindo ao meu perfíl do GitHub
 
-🧍 Meu nome é Gentil Neto, tenho 30 anos e moro em Belo Horizonte/MG.  
+🧍 Tenho 30 anos e moro em Belo Horizonte/MG.  
 📚 Estudo Ciência da computação na Universidade Fumec (**3º Semestre**) e estagio na área de suporte do TRE-MG.  
 ✏️ Atualmente adquirindo habilidades em no framework para front-end Angular.
 
