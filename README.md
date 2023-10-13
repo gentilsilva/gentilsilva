@@ -3,7 +3,6 @@
 
 🧍 Tenho 30 anos e moro em Belo Horizonte/MG.  
 📚 Estudo Ciência da computação na Universidade Fumec (**3º Semestre**) e estagio na área de suporte do TRE-MG.  
-✏️ Atualmente adquirindo habilidades em no framework para front-end Angular.
 
 <br>
 
