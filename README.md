@@ -2,7 +2,7 @@
 #### Bem vindo ao meu perfíl do GitHub
 
 🧍 Tenho 30 anos e moro em Belo Horizonte/MG.  
-📚 Estudo Ciência da computação na Universidade Fumec (**3º Semestre**) e estagio na área de suporte do TRE-MG.  
+📚 Estudo Ciência da computação na Universidade Fumec (**6º Semestre**) e estagio na área de suporte do TRE-MG.  
 
 <br>
 
